@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DebatesLatinos</string>
+
+    <string name="facebook_app_id">1180852108655471</string>
+    <string name="error_login">Ocurrio error al ingresar</string>
+    <string name="cancel_login">Operacion cancelada</string>
+    <string name="welcome">welcome</string>
+    <string name="logout">logout</string>
+</resources>

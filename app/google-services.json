@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "743999662660",
+    "firebase_url": "https://debateslatinos.firebaseio.com",
+    "project_id": "debateslatinos",
+    "storage_bucket": "debateslatinos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743999662660:android:7a38e6c91add46c4",
+        "android_client_info": {
+          "package_name": "com.ulatina.debateslatinos.debateslatinos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743999662660-35fgocno1a30gqan1kg8cjrffolvc9m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ulatina.debateslatinos.debateslatinos",
+            "certificate_hash": "24BCB5F0A7467DDEA12B79411C9A366482E77B42"
+          }
+        },
+        {
+          "client_id": "743999662660-q08kugb4qv3e2u2bqvnc6cmf4bjubici.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrLrsrXuSl7qdk3kYVZoNC7vi_-5Knduc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743999662660-q08kugb4qv3e2u2bqvnc6cmf4bjubici.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
